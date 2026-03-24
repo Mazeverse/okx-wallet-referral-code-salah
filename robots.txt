@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://okx-wallet-referral-code.vercel.app/sitemap.xml
+Sitemap: https://okx-wallet-referral-code-salah.vercel.app/sitemap.xml
